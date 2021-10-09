@@ -11,4 +11,12 @@ void main() {
   print(sinavSonuc['ali']);
   sinavSonuc.remove('veli');
   print(sinavSonuc);
+
+  Map sozluk2 = {
+    'a': 125,
+    'b': 'unal',
+    'c': [12, 45, 68, 79],
+    'e': 5454
+  };
+  print(sozluk2);
 }
